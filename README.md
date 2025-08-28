@@ -96,6 +96,6 @@ Although the model achieves near-perfect accuracy, it is important to acknowledg
 ## 🧑‍💻 Author
 **Daud Ibrahim Hassan**  
 📌 Data Analyst & Computer Science Student (BRAC University)  
-🔗 [LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/daudibrahimhasan/) | [GitHub](https://github.com/daudibrahimhasan)  
 
 ---
