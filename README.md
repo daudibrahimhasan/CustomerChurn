@@ -75,7 +75,7 @@ This approach demonstrates the use of **distance-based regression** for solving 
 Although the model achieves near-perfect accuracy, it is important to acknowledge:  
 - **Feature limitations:** Only a subset of features (source, destination, duration) was used.  
 - **Overfitting risk:** KNN with `k=1` may memorize rather than generalize.  
-- **Data bias:** Dataset is region-specific (Bangladesh) and may not generalize globally.  
+- **Data bias:** Dataset is region-specific (Bangladesh).  
 
 🔮 **Planned Improvements**:
 - Incorporate richer features (airline, stopovers, booking source, seasonality).  
